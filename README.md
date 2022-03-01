@@ -5,4 +5,4 @@ Proyecto de ejemplo de repositorio en GitHub
 
 Estamos utilizando un branch
 
-Agregamos una linea mas
+Agregamos una línea más
